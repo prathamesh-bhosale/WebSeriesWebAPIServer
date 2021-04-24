@@ -1,0 +1,82 @@
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\WebSeriesWebAPIServer.dll.config
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\WebSeriesWebAPIServer.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\WebSeriesWebAPIServer.pdb
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\Antlr3.Runtime.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\Microsoft.Web.Infrastructure.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\Newtonsoft.Json.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Net.Http.Formatting.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Helpers.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Http.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Http.WebHost.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Mvc.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Optimization.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Razor.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.WebPages.Deployment.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.WebPages.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.WebPages.Razor.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\WebGrease.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\Newtonsoft.Json.xml
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Net.Http.Formatting.xml
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Helpers.xml
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Http.xml
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Http.WebHost.xml
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Mvc.xml
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Optimization.xml
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Razor.xml
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.WebPages.xml
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.WebPages.Deployment.xml
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.WebPages.Razor.xml
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\Antlr3.Runtime.pdb
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\obj\Debug\WebSeriesWebAPIServer.csprojResolveAssemblyReference.cache
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\obj\Debug\WebSeriesWebAPIServer.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\obj\Debug\WebSeriesWebAPIServer.pdb
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Cors.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Http.Cors.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Http.Cors.xml
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\EntityFramework.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\EntityFramework.SqlServer.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\EntityFramework.xml
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\EntityFramework.SqlServer.xml
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\WebSeriesDataAccessLayer.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\WebSeriesDataAccessLayer.pdb
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\WebSeriesWebAPIServer.dll.config
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\WebSeriesWebAPIServer.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\WebSeriesWebAPIServer.pdb
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\Antlr3.Runtime.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\EntityFramework.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\EntityFramework.SqlServer.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\Newtonsoft.Json.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Net.Http.Formatting.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Cors.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Helpers.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Http.Cors.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Http.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Http.WebHost.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Mvc.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Optimization.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Razor.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.WebPages.Deployment.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.WebPages.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.WebPages.Razor.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\WebGrease.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\WebSeriesDataAccessLayer.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\WebSeriesDataAccessLayer.pdb
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\EntityFramework.xml
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\EntityFramework.SqlServer.xml
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\Newtonsoft.Json.xml
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Net.Http.Formatting.xml
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Http.xml
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Http.Cors.xml
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Helpers.xml
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Http.WebHost.xml
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Mvc.xml
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Optimization.xml
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.Razor.xml
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.WebPages.xml
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.WebPages.Deployment.xml
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\System.Web.WebPages.Razor.xml
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\bin\Antlr3.Runtime.pdb
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\obj\Debug\WebSeriesWebAPIServer.csprojResolveAssemblyReference.cache
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\obj\Debug\WebSeriesWebAPIServer.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesWebAPIServer\obj\Debug\WebSeriesWebAPIServer.pdb

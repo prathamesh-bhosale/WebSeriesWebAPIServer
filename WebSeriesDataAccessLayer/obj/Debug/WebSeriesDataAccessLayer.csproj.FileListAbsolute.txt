@@ -1,0 +1,20 @@
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\bin\Debug\WebSeriesDataAccessLayer.dll.config
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\bin\Debug\WebSeriesDataAccessLayer.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\bin\Debug\WebSeriesDataAccessLayer.pdb
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\bin\Debug\EntityFramework.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\obj\Debug\WebSeriesDataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\obj\Debug\WebSeriesDataAccessLayer.dll
+D:\Project 2021\Angular Projects\Web Series\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\obj\Debug\WebSeriesDataAccessLayer.pdb
+D:\Project\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\bin\Debug\WebSeriesDataAccessLayer.dll.config
+D:\Project\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\bin\Debug\WebSeriesDataAccessLayer.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\bin\Debug\WebSeriesDataAccessLayer.pdb
+D:\Project\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\bin\Debug\EntityFramework.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Project\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\obj\Debug\WebSeriesDataAccessLayer.dll
+D:\Project\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\obj\Debug\WebSeriesDataAccessLayer.pdb
+D:\Project\WebSeriesWebAPIServer\WebSeriesDataAccessLayer\obj\Debug\WebSeriesDataAccessLayer.csprojResolveAssemblyReference.cache
